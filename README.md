@@ -1,6 +1,8 @@
 # codtech--task3
+
 MOBILE APP  REDESIGN
-name =niarika jain
+
+name =niharika jain
 
 intern id = CT04DY2093
 
